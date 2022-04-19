@@ -46,3 +46,9 @@
 
 ### Wireframes
 
+## Technologies Used
+
+### Languages
+
+### Frameworks & Tools
+
