@@ -28,6 +28,7 @@
     5. [Device Testing](#device-testing)
     6. [Browser Compatibility](#browser-compatibility)
     7. [Testing User Stories](#testing-user-stories)
+7. [Bugs](#bugs)
 
 
 ## Project Goals
@@ -79,3 +80,5 @@
 ### Browser Compatibility
 
 ### Testing User Stories
+
+## Bugs
