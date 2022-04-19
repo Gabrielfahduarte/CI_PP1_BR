@@ -30,6 +30,7 @@
     7. [Testing User Stories](#testing-user-stories)
 7. [Bugs](#bugs)
 8. [Deployments](#deployment)
+9. [Credits](#credits)
 
 
 ## Project Goals
@@ -85,3 +86,5 @@
 ## Bugs
 
 ## Deployment
+
+## Credits
