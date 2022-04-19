@@ -16,6 +16,9 @@
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Framesworks & Tools](#frameworks-&-tools)
 
 ## Project Goals
 
