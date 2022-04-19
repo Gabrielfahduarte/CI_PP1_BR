@@ -19,6 +19,7 @@
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Framesworks & Tools](#frameworks-&-tools)
+5. [Features](#fetures)
 
 ## Project Goals
 
@@ -52,3 +53,4 @@
 
 ### Frameworks & Tools
 
+## Features
