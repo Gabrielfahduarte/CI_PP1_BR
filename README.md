@@ -31,3 +31,15 @@
 
 ### User Stories
 
+## Design
+
+### Design Choices
+
+### Colour
+
+### Fonts
+
+### Structure
+
+### Wireframes
+
