@@ -14,7 +14,7 @@
     1. [Design Choices](#design-choices)
     2. [Colour](#colour)
     3. [Fonts](#fonts)
-    4. [Structure](#structure])
+    4. [Structure](#structure)
     5. [Wireframes](#wireframes)
 
 ## Project Goals
