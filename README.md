@@ -29,6 +29,7 @@
     6. [Browser Compatibility](#browser-compatibility)
     7. [Testing User Stories](#testing-user-stories)
 7. [Bugs](#bugs)
+8. [Deployments](#deployment)
 
 
 ## Project Goals
@@ -82,3 +83,5 @@
 ### Testing User Stories
 
 ## Bugs
+
+## Deployment
