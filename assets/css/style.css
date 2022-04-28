@@ -42,7 +42,15 @@ h1 {
     font-size: 3em;
   }
   
-  .fa-solid{
+.fa-solid{
     color: #747474;
   }
+
+.menu-item {
+    min-height: 80px;
+    margin: 20px;
+    background-color: white;
+}
+
+
 
