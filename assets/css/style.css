@@ -42,15 +42,48 @@ h1 {
     font-size: 3em;
   }
   
-.fa-solid{
+#home-buttom i{
     color: #747474;
   }
 
 .menu-item {
     min-height: 80px;
     margin: 20px;
+}
+
+
+
+.rounded-icon {
+    background-color: #747474;
+    position: absolute;
+    width: 75px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid rgb(43, 43, 43);
+}
+
+.rounded-icon > i {
+    color: white;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 30px;
+    line-height: 75px;
+}
+
+.menu-title {
     background-color: white;
 }
 
+.menu-title p {
+    line-height: 75px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 500;
+    padding-left: 65px;
+    text-decoration: none;
+    color: black;
+}
 
 
