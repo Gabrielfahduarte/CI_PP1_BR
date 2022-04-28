@@ -56,7 +56,7 @@ h1 {
 .rounded-icon {
     background-color: #747474;
     position: absolute;
-    width: 75px;
+    width: 80px !important;
     height: 80px;
     border-radius: 50%;
     border: 2px solid rgb(43, 43, 43);
