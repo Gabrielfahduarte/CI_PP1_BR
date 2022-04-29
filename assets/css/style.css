@@ -6,7 +6,8 @@ body {
     background: 
         url("../images/background.jpg")
         center top / auto 1000px
-        no-repeat;
+        no-repeat
+        fixed;
     font-family: Quattrocento, sans-serif;
 }
 
@@ -19,7 +20,8 @@ h1 {
     width: 100%;
     height: 100%;
     top: 0;
-    position: absolute;
+    position: fixed;
+    z-index: 0;
 }
 
 #logo {
