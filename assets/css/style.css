@@ -24,10 +24,15 @@ h1 {
     z-index: 0;
 }
 
+#logo-box {
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    width: 100%;
+}
+
 #logo {
     color: white;
-    text-align: center;
-    margin-top: 150px;
 }
 
 #home-buttom {
@@ -42,11 +47,23 @@ h1 {
     border: 2px solid #747474;;
     border-radius: 50%;
     font-size: 3em;
-  }
+}
   
 #home-buttom i{
     color: #747474;
-  }
+}
+
+#welcome-box {
+    text-align: center;
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+}
+
+#welcome-msg {
+    font-size: 1.5rem;
+    color: white;
+}
 
 .display-box{
     margin: 30px 10% 0 10%;
@@ -108,5 +125,20 @@ h1 {
     background-color: white;
     border: 2px solid rgb(43, 43, 43);
     z-index: 1;
+}
+
+.iframe-container {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+}
+
+.iframe-container iframe {
+     border: 0;
+     height: 100%;
+     left: 0;
+     position: absolute;
+     top: 0;
+     width: 100%;
 }
 
