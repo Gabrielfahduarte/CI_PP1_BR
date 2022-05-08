@@ -177,3 +177,16 @@ h1 {
      width: 100%;
 }
 
+#contact {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding: 0 30px;
+}
+
+.contact-box {
+    padding: 10px;
+    margin-bottom:20px;
+    background-color: rgba(248, 249, 250);
+    border: 2px solid rgb(43, 43, 43);
+    z-index: 1;
+}
