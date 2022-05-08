@@ -190,3 +190,7 @@ h1 {
     border: 2px solid rgb(43, 43, 43);
     z-index: 1;
 }
+
+.form-item {
+    margin-bottom: 10px;
+}
