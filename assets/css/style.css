@@ -158,6 +158,7 @@ h1, h2 {
 #locations {
     margin-top: 80px;
     margin-bottom: 80px;
+    padding: 0 10%;
 }
 
 #locations h3 {
@@ -168,8 +169,15 @@ h1, h2 {
     font-size: 80%;
 }
 
-.location-box {
+.padding-box {
     padding: 10px;
+    z-index: 1;
+}
+
+.location-box {
+    position: relative;
+    padding: 10px;
+    margin-bottom: 20px;
     background-color: rgba(248, 249, 250);
     border: 2px solid rgb(43, 43, 43);
     z-index: 1;
@@ -260,5 +268,9 @@ h1, h2 {
         line-height: 80px;
         font-size: 30px;
         margin: auto auto;
+    }
+
+    #locations {
+        padding: 0;
     }
 }
