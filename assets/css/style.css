@@ -166,7 +166,7 @@ h1, h2 {
 }
 
 #locations p {
-    font-size: 80%;
+    font-size: 0.8rem;
 }
 
 .padding-box {
@@ -272,5 +272,13 @@ h1, h2 {
 
     #locations {
         padding: 0;
+    }
+
+    #locations h3 {
+        font-size: 1.6rem;
+    }
+    
+    #locations p {
+        font-size: 1rem;
     }
 }
