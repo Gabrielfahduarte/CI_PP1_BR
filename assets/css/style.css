@@ -352,4 +352,21 @@ h1, h2 {
         height: 100px;
         margin: 40px 0;
     }
+
+    #contact {
+        margin: 0;
+        position: absolute;
+        left: 50%;
+        top:  50%;
+        transform: translate(-50%, -50%);
+        padding: 0 30px;
+    }
+
+    .contact-box {
+        height: 600px;
+    }
+
+    #pre-inscrition {
+        margin-top: 15%;
+    }
 }
