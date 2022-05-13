@@ -342,12 +342,12 @@ h1, h2 {
 
     .title-left {
         text-align: left;
-        padding: 0 3% 0 8%;
+        padding: 0 3% 0 12%;
     }
 
     .title-right{
         text-align: right;
-        padding: 0 8% 0 3%;
+        padding: 0 12% 0 3%;
     }
 
     #location-row {
