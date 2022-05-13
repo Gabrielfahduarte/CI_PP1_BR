@@ -247,8 +247,6 @@ h1, h2 {
     }
 }
 
-
-
 @media screen and (min-width:768px) {
 
     #home {
@@ -342,6 +340,16 @@ h1, h2 {
         top: -60px;
     }
 
+    .title-left {
+        text-align: left;
+        padding: 0 3% 0 8%;
+    }
+
+    .title-right{
+        text-align: right;
+        padding: 0 8% 0 3%;
+    }
+
     #location-row {
         position: absolute;
         width: 95%;
@@ -367,6 +375,6 @@ h1, h2 {
     }
 
     #pre-inscrition {
-        margin-top: 15%;
+        margin-top: 10%;
     }
 }
