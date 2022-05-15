@@ -71,6 +71,11 @@ h1, h2 {
     margin-bottom: 80px;
 }
 
+#nav-logo {
+    text-decoration: none;
+    color:black;
+}
+
 .display-box{
     margin: 30px 10% 0 10%;
     position: relative;
