@@ -174,17 +174,11 @@ h1, h2 {
     font-size: 0.8rem;
 }
 
-.padding-box {
-    padding: 10px;
-    z-index: 1;
-}
-
 .location-box {
     position: relative;
     padding: 10px;
     margin-bottom: 20px;
     background-color: rgba(248, 249, 250);
-    border: 2px solid rgb(43, 43, 43);
     z-index: 1;
 }
 
@@ -220,7 +214,6 @@ h1, h2 {
     padding: 10px;
     margin-bottom:20px;
     background-color: rgba(248, 249, 250);
-    border: 2px solid rgb(43, 43, 43);
     z-index: 1;
 }
 
