@@ -8,11 +8,11 @@ body {
         center top / auto 600px
         no-repeat
         fixed;
-    font-family: Quattrocento, sans-serif;
+    font-family: Quattrocento, sans-serif !important;
 }
 
 h1, h2 {
-    font-family: Oswald, sans-serif;
+    font-family: Oswald, sans-serif !important;
 }
 
 #overlay{
@@ -79,7 +79,6 @@ h1, h2 {
 .display-box{
     margin: 30px 10% 0 10%;
     position: relative;
-    font-family: Quattrocento, sans-serif;
 }
 
 .rounded-icon {
@@ -378,4 +377,16 @@ h1, h2 {
     #pre-inscrition {
         margin-top: 10%;
     }
+
+    .home-row {
+        position: absolute;
+    }
+
+    #first-row {
+    }
+
+    #second-row {
+        top: 500px;
+    }
+    
 }
