@@ -300,6 +300,10 @@ h1, h2 {
         margin: auto auto;
     }
 
+    .info {
+        font-size: 18px;
+    }
+
     #locations {
         padding: 0;
     }
@@ -315,7 +319,7 @@ h1, h2 {
 
 @media screen and (min-width:1200px) {
     .display-box {
-        margin: 70px 0 0 0;
+        margin: 50px 0 90px 0;
         padding: 0 100px;
         max-width: 50%;
         float: left;
@@ -341,13 +345,19 @@ h1, h2 {
     }
 
     .title-left {
+        font-size: 30px;
         text-align: left;
-        padding: 0 3% 0 12%;
+        padding: 0 12% 0 12%;
     }
 
     .title-right{
+        font-size: 36px;
         text-align: right;
-        padding: 0 12% 0 3%;
+        padding: 0 12% 0 12%;
+    }
+    .info {
+        font-size: 20px;
+        height: 330px !important;
     }
 
     #location-row {
@@ -376,17 +386,6 @@ h1, h2 {
 
     #pre-inscrition {
         margin-top: 10%;
-    }
-
-    .home-row {
-        position: absolute;
-    }
-
-    #first-row {
-    }
-
-    #second-row {
-        top: 500px;
     }
     
 }
