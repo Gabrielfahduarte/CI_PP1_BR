@@ -213,7 +213,7 @@ h1, h2 {
 
 #about-us-box{
     margin: 0 6%;
-    padding: 10px;
+    padding: 20px 10%;
     position: relative;
     background-color: rgba(248, 249, 250);
 }
@@ -221,13 +221,15 @@ h1, h2 {
 #about-us-box > .rounded-icon {
     position: relative;
     float: left;
+    background-color: #4d4d4d;
 }
 
-#about-us-box h2 {
+.about-us-title {
     color: white;
     background-color: #747474;
     font-size: 15px;
     line-height: 25px;
+    padding-left: 35px;
     margin-left: 25px;
     margin-bottom: 0;
     height: 30px;
@@ -235,20 +237,18 @@ h1, h2 {
     border-top-right-radius: 25px;
 }
 
-#about-us-box p {
-    font-size: 12px;
-    line-height: 15px;
-    margin-left: 60px;
+.about-us-info {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
     margin-bottom: 10px;
     height: 20px;
 }
 
-#about-us-title{
-    margin-left: 20px;
-}
+#main-info {
+    margin: 0 8%;
+    text-align: justify;
 
-#about-us-info{
-    margin-left: 20px;
 }
 
 #contact {
