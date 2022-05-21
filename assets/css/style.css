@@ -206,6 +206,21 @@ h1, h2 {
 
 }
 
+#about-us{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+#about-us-box{
+    position: relative;
+    background-color: rgba(248, 249, 250);
+    z-index: 1;
+}
+
+#about-us-box > .rounded-icon {
+    position: relative;
+}
+
 #contact {
     margin-top: 80px;
     margin-bottom: 80px;
