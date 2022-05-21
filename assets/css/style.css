@@ -238,7 +238,7 @@ h1, h2 {
 }
 
 .about-us-info {
-    font-size: 14px;
+    font-size: 10px;
     line-height: 20px;
     text-align: center;
     margin-bottom: 10px;
@@ -366,7 +366,7 @@ h1, h2 {
     .display-box {
         margin: 50px 0 90px 0;
         padding: 0 100px;
-        max-width: 50%;
+        width: 50%;
         float: left;
     }
 
