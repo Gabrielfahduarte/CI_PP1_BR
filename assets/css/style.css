@@ -216,7 +216,6 @@ h1, h2 {
     padding: 10px;
     position: relative;
     background-color: rgba(248, 249, 250);
-    z-index: 1;
 }
 
 #about-us-box > .rounded-icon {
@@ -224,28 +223,32 @@ h1, h2 {
     float: left;
 }
 
-#about-us-box > h2 {
+#about-us-box h2 {
+    color: white;
+    background-color: #747474;
+    font-size: 15px;
     line-height: 25px;
-    padding-left: 60px;
-    margin: 0;
+    margin-left: 25px;
+    margin-bottom: 0;
     height: 30px;
-    width: 100%;
+    border: 2px solid rgb(43, 43, 43);
+    border-top-right-radius: 25px;
 }
 
-#about-us-box > p {
+#about-us-box p {
+    font-size: 12px;
     line-height: 15px;
-    padding-left: 60px;
+    margin-left: 60px;
     margin-bottom: 10px;
     height: 20px;
-    width: 100%;
 }
 
 #about-us-title{
-    padding-left: 20px !important;
+    margin-left: 20px;
 }
 
 #about-us-info{
-    padding-left: 20px !important;
+    margin-left: 20px;
 }
 
 #contact {
