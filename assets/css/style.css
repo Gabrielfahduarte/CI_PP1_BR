@@ -334,7 +334,6 @@ h1, h2 {
     }
 
     .title-right, .title-left {
-        
         text-align: center;
         padding: 40px 5% 0 5%;
     }
@@ -359,6 +358,40 @@ h1, h2 {
     
     #locations p {
         font-size: 1rem;
+    }
+
+    #about-us-box > .rounded-icon {
+        width: 80px;
+        height: 80px;
+    }
+
+    #about-us-box >.rounded-icon > i {
+        font-size: 36px;
+        line-height: 75px;
+    }
+
+    .about-us-title {
+        font-size: 20px;
+        line-height: 43spx;
+        padding-left: 50px;
+        margin-left: 40px;
+        height: 48px;
+        border-top-right-radius: 40px;
+    }
+    
+    .about-us-info {
+        font-size: 18px;
+        line-height: 40px;
+        margin-bottom: 10px;
+        height: 40px;
+    }
+
+    #main-title {
+        font-size: 34px;
+    }
+    
+    #main-info {
+        font-size: 20px;
     }
 }
 
