@@ -15,6 +15,8 @@ h1, h2 {
     font-family: Oswald, sans-serif !important;
 }
 
+/* Index page Styling */
+
 #overlay{
     background-color: rgba(0, 0, 0, 0.6);
     width: 100%;
@@ -65,6 +67,8 @@ h1, h2 {
     font-size: 1.5rem;
     color: white;
 }
+
+/* home page Styling */
 
 #home {
     margin-top: 100px;
@@ -162,6 +166,8 @@ h1, h2 {
     color: #3a3a3a;
 }
 
+/* locations page Styling */
+
 #locations {
     margin-top: 80px;
     margin-bottom: 80px;
@@ -205,6 +211,8 @@ h1, h2 {
     margin: 20px 0;
 
 }
+
+/* About us page Styling */
 
 #about-us{
     margin-top: 80px;
@@ -251,6 +259,8 @@ h1, h2 {
 
 }
 
+/* Contact us page Styling */
+
 #contact {
     margin-top: 80px;
     margin-bottom: 80px;
@@ -267,6 +277,8 @@ h1, h2 {
 .form-item {
     margin-bottom: 10px;
 }
+
+/* Media queries for changing background image acoording to the device height */
 
 @media screen and (min-height:600px){
     body {
@@ -291,6 +303,8 @@ h1, h2 {
         background-size: auto 1600px;
     }
 }
+
+/* Media querie for screens above 768 pixels, medium screens */
 
 @media screen and (min-width:768px) {
 
@@ -394,6 +408,8 @@ h1, h2 {
         height: 40px;
     }
 }
+
+/* Media querie for screens above 1200 pixels, large screens */
 
 @media screen and (min-width:1200px) {
 
